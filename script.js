@@ -1,5 +1,3 @@
-//your JS code here. If required.
-
 function manipulateArray() {
   const arr = [1, 2, 3, 4];
 
